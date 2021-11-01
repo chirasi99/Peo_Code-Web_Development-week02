@@ -1,0 +1,96 @@
+
+*{
+    margin:0;
+}
+
+.header h1{
+    font-family: "Roboto Condensed", Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    color:white;
+    text-align: center;
+    text-shadow: 3px 3px  #ff0000;
+}
+
+.header{
+    background-color: rgb(202, 0, 0);
+    height: 40px;
+}
+.spiderMan{
+    background-color: #4D8BBC;
+    height:450px;
+    display: flex;
+    flex-direction: row;
+}
+.content1{
+    margin-top:0px;
+    padding-left:15px;
+    padding-top:50px;
+    display: flex;
+    flex-direction: column;
+    width:60vw;
+}
+.content1 h3{
+    font-family: "Architects Daughter", Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-style:italic;
+    margin-bottom:5px;
+}
+.content1 h2{
+    font-family: "Architects Daughter", Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-style:bold;
+    color:rgb(233, 197, 37);
+    margin-bottom:50px;
+    
+}
+.content1 p{
+    font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif ;
+    text-indent: 30px;
+}
+.pic1{
+    float: right;
+    padding-top:100px;
+    display:flex;
+    flex-direction: column;
+    width: 40vw;
+}
+.ironMan{
+    background-color:#EDAC4D;
+    height:450px;
+    display: flex;
+    flex-direction: row;
+}
+.content2{
+    margin-top:0px;
+    padding-left:15px;
+    padding-top:50px;
+    display: flex;
+    flex-direction: column;
+    width:60vw;
+}
+.content2 h3{
+    font-family: "Zen Kurenaido", Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-style:italic;
+    margin-bottom:5px;
+}
+.content2 h2{
+    font-family: "Zen Kurenaido", Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    font-style:bold;
+    color:#E4290A;
+    margin-bottom:50px;
+    
+}
+.content2 p{
+    font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif ;
+    text-indent: 30px;
+}
+.pic2{
+    float: right;
+    padding-top:150px;
+    display:flex;
+    flex-direction: column;
+    width: 40vw;
+}

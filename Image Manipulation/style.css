@@ -1,0 +1,23 @@
+body{
+    background-image: url('bg.jpg');
+    background-size: 100%;
+}
+
+
+.icons{
+    height: 200px;
+    width: 200px;
+    margin: 2%;
+    border: white solid 10px;
+    border-radius: 50%;
+}
+
+.images{
+    width: 50%;
+    border-radius: 10%;
+}
+
+.icons:hover{
+    transform: scale(1.2);
+}
+
